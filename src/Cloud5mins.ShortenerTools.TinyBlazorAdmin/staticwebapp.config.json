@@ -1,4 +1,7 @@
 {
+    "globalHeaders": {
+        "X-Frame-Options": "SAMEORIGIN",
+    },
     "navigationFallback": {
         "rewrite": "/index.html"
     },
